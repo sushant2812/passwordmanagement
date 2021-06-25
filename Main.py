@@ -100,7 +100,7 @@ class MenuPage(tk.Frame):
         search_database.grid(row=2,column=0,pady=5)
         def AddP1():
             controller.show_frame("AddPage1")
-        search_database=tk.Button(button_frame,text="Add a user with an computer-generated password",command=AddP1,height=5,width=50)
+        search_database=tk.Button(button_frame,text="Add a user with a computer-generated password",command=AddP1,height=5,width=50)
         search_database.grid(row=3,column=0,pady=5)
         def UpdateP():
             controller.show_frame("UpdatePage")
