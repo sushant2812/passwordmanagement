@@ -22,9 +22,15 @@ After these steps, you can finally use your password management database.
 
 
 Options provided in the program.
+
 1.Show Entire Database:- This, as stated, shows the entire database and allows the user to copy multiple user-ids
+
 2.Search Password:-This option helps the user to find a specific user-id
+
 3.Add a user:- This option allows the user to add more users to the database with user-defined passwords
+
 4.Add a user with a computer-generated password: This option allows the user to add more users to the database with passwords that are strong and are easily usable
+
 5.Update a password:- It allows the user to update an existing password with a new password
+
 6.Delete a user-id pair:- It allows the user to delete an existing user-id/password.
