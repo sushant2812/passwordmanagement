@@ -1,7 +1,7 @@
 import pickle
 def make():
     f=open("password.dat",'wb')
-    pickle.dump("0117",f)
+    pickle.dump("*insert password*",f)
     f.close()
 def pg(password):
     f=open("password.dat",'wb')
